@@ -6,7 +6,25 @@
 			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/sea.png",
 			"dimensions": "1280 x 1920",
 			"copyright": "LP"
-		},		
+		},{
+			"name": "beache",
+			"author": "Loraine Phuket",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/beache.png",
+			"dimensions": "1280 x 1920",
+			"copyright": "LP"
+		},{
+			"name": "beache2",
+			"author": "Loraine Phuket",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/beache2.png",
+			"dimensions": "1280 x 1920",
+			"copyright": "LP"
+		},{
+			"name": "beache3",
+			"author": "Loraine Phuket",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/beache3.png",
+			"dimensions": "1280 x 1920",
+			"copyright": "LP"
+		},				
 		{
 			"name": "Stripes",
 			"author": "Loraine Phuket",
