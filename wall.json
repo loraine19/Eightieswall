@@ -82,10 +82,59 @@
 			"copyright": "LP"
 		},
 		{
+			"name": "niki",
+			"author": "niki",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/niki.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "LP"
+		},
+		{
+			"name": "gta",
+			"author": "gta",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/gta.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "LP"
+		},
+		{
+			"name": "port",
+			"author": "Loraine Phuket",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/port.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "LP"
+		},
+		{
+			"name": "port2",
+			"author": "Loraine Phuket",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/port2.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "LP"
+		},
+		{
+			"name": "draw",
+			"author": "Loraine Phuket",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/draw.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "LP"
+		},
+		{
+			"name": "draw2",
+			"author": "Loraine Phuket",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/draw2.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "LP"
+		},
+		{
 			"name": "Stripes",
 			"author": "Loraine Phuket",
 			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/stripes.png",
 			"dimensions": "1280 x 1920",
+			"copyright": "LP"
+		}
+		{
+			"name": "pink",
+			"author": "Loraine Phuket",
+			"url": "https://raw.githubusercontent.com/loraine19/eigthieswall/master/pink.png",
+			"dimensions": "1080 x 1920",
 			"copyright": "LP"
 		}
 	]
